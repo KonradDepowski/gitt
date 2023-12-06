@@ -4,7 +4,7 @@ function App() {
   return (
     <div id="app">
       <div>
-        <h1>LOE</h1>
+        <h1>MASON</h1>
       </div>
       <section>
         <h2>Button with Outline</h2>
@@ -13,7 +13,7 @@ function App() {
         </p>
       </section>
       <section>
-        <h2>Text-only Button</h2>
+        <h2>TDIS</h2>
         <p>
           <Button mode="text">Text</Button>
         </p>
