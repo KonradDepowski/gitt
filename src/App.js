@@ -41,6 +41,9 @@ function App() {
           <Button mode="filled" disabled>
             Disabled
           </Button>
+          <Button mode="filled" disabled>
+            Disabled
+          </Button>
         </p>
         <p>
           <Button onClick={() => console.log("Clicked!")}>Click me</Button>
