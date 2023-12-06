@@ -3,18 +3,9 @@ import Button from "./Button";
 function App() {
   return (
     <div id="app">
-      <section>
-        <h2>Filled Button (Default)</h2>
-        <p>
-          <Button>Default</Button>
-          <Button>Default</Button>
-        </p>
-        <p>
-          <Button styles="filled-button" mode="filled">
-            Filled (Default)
-          </Button>
-        </p>
-      </section>
+      <div>
+        <h1>LOE</h1>
+      </div>
       <section>
         <h2>Button with Outline</h2>
         <p>
@@ -28,7 +19,7 @@ function App() {
         </p>
       </section>
       <section>
-        <h2>Button with Icon</h2>
+        <h2>MAINE KAMPF</h2>
         <p>
           <Button>Home</Button>
         </p>
@@ -37,7 +28,7 @@ function App() {
         </p>
       </section>
       <section>
-        <h2>Buttons Should Support Any Props</h2>
+        <h2>JEBAC DISA</h2>
         <p>
           <Button mode="filled" disabled>
             Disabled
