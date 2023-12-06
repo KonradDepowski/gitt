@@ -4,7 +4,7 @@ function App() {
   return (
     <div id="app">
       <section>
-        <h2>Filled Button (Default)</h2>
+        <h2>Filled BELOS</h2>
         <p>
           <Button>Default</Button>
         </p>
