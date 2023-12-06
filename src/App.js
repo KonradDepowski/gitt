@@ -7,6 +7,7 @@ function App() {
         <h2>Filled Button (Default)</h2>
         <p>
           <Button>Default</Button>
+          <Button>Default</Button>
         </p>
         <p>
           <Button styles="filled-button" mode="filled">
