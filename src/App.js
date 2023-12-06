@@ -3,18 +3,9 @@ import Button from "./Button";
 function App() {
   return (
     <div id="app">
-      <section>
-        <h2>Filled Button (Default)</h2>
-        <p>
-          <Button>Default</Button>
-          <Button>Default</Button>
-        </p>
-        <p>
-          <Button styles="filled-button" mode="filled">
-            Filled (Default)
-          </Button>
-        </p>
-      </section>
+      <div>
+        <h1>MASON</h1>
+      </div>
       <section>
         <h2>Button with Outline</h2>
         <p>
@@ -22,7 +13,7 @@ function App() {
         </p>
       </section>
       <section>
-        <h2>Text-only Button</h2>
+        <h2>TDIS</h2>
         <p>
           <Button mode="text">Text</Button>
         </p>
